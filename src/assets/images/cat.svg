@@ -1,0 +1,52 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cat Body -->
+  <ellipse cx="100" cy="130" rx="45" ry="35" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+
+  <!-- Cat Head -->
+  <circle cx="100" cy="80" r="35" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+
+  <!-- Cat Ears -->
+  <polygon points="75,55 85,35 95,55" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+  <polygon points="105,55 115,35 125,55" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+
+  <!-- Inner Ears -->
+  <polygon points="78,52 85,40 92,52" fill="#ffb74d"/>
+  <polygon points="108,52 115,40 122,52" fill="#ffb74d"/>
+
+  <!-- Cat Eyes -->
+  <ellipse cx="90" cy="75" rx="6" ry="8" fill="#000"/>
+  <ellipse cx="110" cy="75" rx="6" ry="8" fill="#000"/>
+
+  <!-- Eye Highlights -->
+  <ellipse cx="92" cy="73" rx="2" ry="3" fill="#fff"/>
+  <ellipse cx="112" cy="73" rx="2" ry="3" fill="#fff"/>
+
+  <!-- Cat Nose -->
+  <polygon points="100,85 95,90 105,90" fill="#e91e63"/>
+
+  <!-- Cat Mouth -->
+  <path d="M 100 92 Q 95 96 90 94" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 100 92 Q 105 96 110 94" stroke="#000" stroke-width="2" fill="none"/>
+
+  <!-- Cat Whiskers -->
+  <line x1="65" y1="80" x2="85" y2="82" stroke="#000" stroke-width="1.5"/>
+  <line x1="65" y1="87" x2="85" y2="87" stroke="#000" stroke-width="1.5"/>
+  <line x1="115" y1="82" x2="135" y2="80" stroke="#000" stroke-width="1.5"/>
+  <line x1="115" y1="87" x2="135" y2="87" stroke="#000" stroke-width="1.5"/>
+
+  <!-- Cat Tail -->
+  <path d="M 145 130 Q 170 110 175 85 Q 180 60 170 40" stroke="#ff9800" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- Cat Legs -->
+  <ellipse cx="80" cy="160" rx="8" ry="15" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+  <ellipse cx="100" cy="160" rx="8" ry="15" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+  <ellipse cx="120" cy="160" rx="8" ry="15" fill="#ff9800" stroke="#e65100" stroke-width="2"/>
+
+  <!-- Cat Paws -->
+  <ellipse cx="80" cy="175" rx="10" ry="6" fill="#ffb74d"/>
+  <ellipse cx="100" cy="175" rx="10" ry="6" fill="#ffb74d"/>
+  <ellipse cx="120" cy="175" rx="10" ry="6" fill="#ffb74d"/>
+
+  <!-- Chest Pattern -->
+  <ellipse cx="100" cy="120" rx="15" ry="20" fill="#ffcc02"/>
+</svg>
